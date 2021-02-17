@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "smartfarmkits",
+    "private_key_id": "ab7e83766d2a594caac96bd46119433e5abc69a9",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDaV32sKV5CFmC4\nNUUS/ljqA2xCVMI22DPppAnqpviFTfnr56eN5ZxGzr+X6VXPPmLajgnTb4cBhqMe\n2T2szJXTecddaS9ADlUIqH8nwEY+HcJRZ2wq7pV38oISRHenRYJs0yxUi51tzrOK\nsNtZky+p3dss0xzLGinduO6X/b+ZJI/bswE5t7pqznHFwMhbDK+g3UdNm0UbTKe8\nqWxJ24WNaMp5j63zr9c82IlrslivzUbhJLjuqwL5mApwc6/uKeUTKRE/kor/rRqr\nk+QQys2/VoYKIhmMKU6zu/p0iB8uzMMAZBQIuwO6xhMUybB+VbFTcD6F7EF2FgsU\nPp/1DCe7AgMBAAECggEAICUOVvjWLDOgNK5/B19T1sv/NbrFxw5IgkbIwPepEfMb\nbswxolXiDpiko2hSXksIgbW0o6DBRwu72zBPgK+0BSjiHZH9R1h002v/IGqRzNZT\nw+lOhvmOHtUgqjDTTtiQbZYfaikN2ds7GpmUCZl+RGtpt60zCYHGFSMDWXQdr51p\nE7I8ONdEtSwJNpAdHrVLf5rAO/Bmz4gQqiO6x6ZRugs7nJIfQzqu+p9hbDvUqMyV\nAnkyU/qpFYFvEnaSV4qfDNKGgFij7ecVXMQH3YFc6LmqvQhmw4u6N8LHCY9EfFFn\nsu/QTsXrioMBHqwDfXwkYk5v7po2xI3MsWlnlZvCcQKBgQD+ujSNzEN/FgatiYei\nYy1PgZFIh+vh1+0J6B0uHfiCfITcOLF0Wy/Mbb/mMuXqmP0dOppqg+fOM0zfO8e9\np4Wo3HOLLmtVPYbYfY+IDu0LQe+BgXlVxV59lGkL82tH53gd2fXqibcl3e1cED1d\nNS6Cap0kxpq1hJekwNfYn2tysQKBgQDbbr+oL4bzATxky3bU8T3drWK86cd1oCKF\nHBUj2rG+gmJ8tlXFqlTePUNu+eILL3E4hUaxdWppvhg196taxYxM5BWhKQP3pPaV\n67OamMcaZ0JIxTrArHISUDXe2rtVFK7KDETRWjwe6MIsBZ6CV2XG9L4Ule/iLjY8\n2YVzUY8kKwKBgQDu3Y4KqlFhCzaX5S/bh0UmGUozycHYtrMBZzh11oUDV+D+4esG\nQbxA52ncZD5WD8DLd/j1iVwGcPTVISndHwqnnpJ7Ibxk4p1gxd2iqNyAggQmXVN6\nqupAuLsJCerAMr7gv1Nr7FhimgnLGy9wCD7k7TUPF25caUoKpQvDhzsrAQKBgAQ6\nkyj7mX8vY+mRXj3mVEnkYIXBf52Ns3ybOPES8t/4BUvf+7EugioyRg1qdWe/x0/O\nibk7yQw2pKLNnhjGu9hzgNM1RiVMoY/sFe8ByLyChu1+F47FBAHEV/Vug7O1DVVJ\nfT4Hnib+V1ef2Bks9AIsj0k4RoI2X8c2bfL1/Gs3AoGADvYn6HheLX6WKc+kYh2U\nVdmNipEWAlRIFU4+PQrDagKGGZHX+mOy0cFgnWSDIGTyaAJMntxP5x1MdlvdwjfT\nGd2IusKjDEJVDLoSyFcSkYeEx7/aOZ9PTM+2kB0OFblaSGqijEGB6Yqo6K0LbKOo\nP8F3Ji2hk06YuTg1+Ylash8=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-u773f@smartfarmkits.iam.gserviceaccount.com",
+    "client_id": "103054313144225932608",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-u773f%40smartfarmkits.iam.gserviceaccount.com"
+  }
+  
